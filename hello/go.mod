@@ -1,4 +1,4 @@
-module github.com/Gabriel-Rockson/tutorial-get-started-with-go/hello
+module github.com/Gabriel-Rockson/getting-started-with-go-tuts/hello
 
 go 1.21.3
 
